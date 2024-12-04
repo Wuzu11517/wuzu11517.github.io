@@ -1,1 +1,1 @@
-chicken wing chciekn wing hotdog and baloney chicken and macaroni chllin with my homies
+This is the tutorial for CMSC320 that is based on incorporating Machine Learning Techniques learned in class on a Natural Disasters dataset.
